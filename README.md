@@ -1,4 +1,8 @@
 # Amazon Sales Performance Analysis
+## Data Note
+The original raw dataset is large and not included in this repository due to size constraints.
+A representative sample of the raw data is provided for reference.
+
 
 ## Overview
 This project analyzes e-commerce sales data to uncover revenue trends and product performance insights. 
